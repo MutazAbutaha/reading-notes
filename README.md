@@ -15,5 +15,7 @@ Also I will keep it to track observation and question for the daily read.
 
 * this is the file for [typing](./prep/typing.md)
 
+* this is the file for Prep [Your Mindset](./prep/Prep%20Your%20Mindset.md)
+
 
 ## 2. Code 401 - Advanced Software Development📘
