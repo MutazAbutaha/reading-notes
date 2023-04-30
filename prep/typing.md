@@ -1,0 +1,1 @@
+![](./typing/Screenshot%20(87).png)
