@@ -7,15 +7,21 @@ Also I will keep it to track observation and question for the daily read.
 
 ## 1. Prep.. Intro to Software Development📕
 
-* This is the start with the [SQL](./prep/SQL.md) reading part
+| #           | Link |
+| ----------- | ----------- |
+| 1           | [SQL](./prep/SQL.md)        |
+| 2           | [Git practices](./prep/Git%20practices.md)        |
+| 3           | [Data Structures](./prep/Data%20Structures.md)        |
+| 4           | [command line](./prep/Command%20line.md)        |
+| 5           | [Typing](./prep/typing.md)        |
+| 6           | [The Growth Mindset](./prep/Prep%20Your%20Mindset.md)        |
 
-* This is the file for [Git practices](./prep/Git%20practices.md) 
-
-* this is the file for [command line](./prep/Command%20line.md)
-
-* this is the file for [typing](./prep/typing.md)
-
-* this is the file for Prep [Your Mindset](./prep/Prep%20Your%20Mindset.md)
 
 
 ## 2. Code 401 - Advanced Software Development📘
+
+
+| #           | Link |
+| ----------- | ----------- |
+| 1           | [Class1]()        |
+
