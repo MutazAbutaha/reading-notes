@@ -7,7 +7,7 @@ Also I will keep it to track observation and question for the daily read.
 
 ## 1. Prep.. Intro to Software Development📕
 
-| #           | Link |
+| #           | Content |
 | ----------- | ----------- |
 | 1           | [SQL](./prep/SQL.md)        |
 | 2           | [Git practices](./prep/Git%20practices.md)        |
@@ -21,7 +21,33 @@ Also I will keep it to track observation and question for the daily read.
 ## 2. Code 401 - Advanced Software Development📘
 
 
-| #           | Link |
+| #           | Content |
 | ----------- | ----------- |
-| 1           | [Class1](./code401/Class1.md)        |
+| 1           | [Big O Notation](./code401/Class1.md)        |
+| 2           | []()|
+| 3           | []()|
+| 4           | []()|
+| 5           | []()|
+| 6           | []()|
+| 7           | []()|
+| 8           | []()|
+| 9           | []()|
+| 10           | []()|
+| 11           | []()|
+| 12           | []()|
+| 13           | []()|
+| 14           | []()|
+| 15           | []()|
+| 16          | []()|
+| 17          | []()|
+| 18          | []()|
+| 19           | []()|
+| 20           | []()|
+| 21           | []()|
+| 22           | []()|
+| 23           | []()|
+| 24           | []()|
+| 25           | []()|
+| 26           | []()|
+| 27           | []()|
 
