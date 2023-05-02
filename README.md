@@ -23,5 +23,5 @@ Also I will keep it to track observation and question for the daily read.
 
 | #           | Link |
 | ----------- | ----------- |
-| 1           | [Class1]()        |
+| 1           | [Class1](./code401/Class1.md)        |
 
