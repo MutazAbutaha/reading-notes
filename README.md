@@ -23,8 +23,8 @@ Also I will keep it to track observation and question for the daily read.
 
 | Class #           | Content |
 | ----------- | ----------- |
-| 1           | [Big O Notation](./code401/Class1.md)        |
-| 2           | []()|
+| 1           | [Class1](./code401/Class1.md)        |
+| 2           | [Class2](./code401/Class2.md)|
 | 3           | []()|
 | 4           | []()|
 | 5           | []()|
