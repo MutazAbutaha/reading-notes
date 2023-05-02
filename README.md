@@ -21,7 +21,7 @@ Also I will keep it to track observation and question for the daily read.
 ## 2. Code 401 - Advanced Software Development📘
 
 
-| #           | Content |
+| Class #           | Content |
 | ----------- | ----------- |
 | 1           | [Big O Notation](./code401/Class1.md)        |
 | 2           | []()|
