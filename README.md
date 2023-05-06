@@ -23,9 +23,9 @@ Also I will keep it to track observation and question for the daily read.
 
 | Class #           | Content |
 | ----------- | ----------- |
-| 1           | [Class1](./code401/Class1.md)        |
-| 2           | [Class2](./code401/Class2.md)|
-| 3           | []()|
+| 1           | [Class 1](./code401/Class1.md)        |
+| 2           | [Class 2](./code401/Class2.md)|
+| 3           | [Class 3](./code401/Class3.md)|
 | 4           | []()|
 | 5           | []()|
 | 6           | []()|
