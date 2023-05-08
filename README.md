@@ -26,7 +26,7 @@ Also I will keep it to track observation and question for the daily read.
 | 1           | [Class 1](./code401/Class1.md)        |
 | 2           | [Class 2](./code401/Class2.md)|
 | 3           | [Class 3](./code401/Class3.md)|
-| 4           | []()|
+| 4           | [Class 4](./code401/Class4.md)|
 | 5           | []()|
 | 6           | []()|
 | 7           | []()|
