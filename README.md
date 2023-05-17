@@ -30,7 +30,7 @@ Also I will keep it to track observation and question for the daily read.
 | 5           | [Class 5](./code401/Class5.md)|
 | 6           | [Class 6](./code401/Class6.md)|
 | 7           | [Class 7](./code401/Class7.md)|
-| 8           | []()|
+| 8           | [Class 8](./code401/Class8.md)|
 | 9           | []()|
 | 10           | []()|
 | 11           | []()|
