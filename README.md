@@ -42,7 +42,7 @@ Also I will keep it to track observation and question for the daily read.
 | 17          | [Class 17](./code401/Class17.md)|
 | 18          | [Class 26](./code401/Class26.md)|
 | 19           | [Class 27](./code401/Class27.md)|
-| 20           | []()|
+| 20           | [Class 28](./code401/Class28.md)|
 | 21           | []()|
 | 22           | []()|
 | 23           | []()|
