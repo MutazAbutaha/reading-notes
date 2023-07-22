@@ -45,7 +45,7 @@ Also I will keep it to track observation and question for the daily read.
 | 20           | [Class 28](./code401/Class28.md)|
 | 21           | [Class 29](./code401/Class29.md)|
 | 22           | [Hash-Tables](./code401/Hash-Tables.md)|
-| 23           | []()|
+| 23           | [Class 31](./code401/Class31.md)|
 | 24           | []()|
 | 25           | []()|
 | 26           | []()|
