@@ -6,7 +6,13 @@ Lifting State Up in React: Lifting state up refers to moving the shared state fr
 
 ## Explain the concept of conditional rendering in React and provide an example of how to implement it in a component.
 
-Conditional rendering involves rendering different content based on certain conditions within a React component. This allows components to adapt their output dynamically. For example, using the ternary operator, you can conditionally render elements like this:
+Conditional rendering involves rendering different content based on certain conditions within a React component. This allows components to adapt their output dynamically. For example, using the ternary operator, you can conditionally render elements like this:  function ExampleComponent({ isLoggedIn }) {
+  return (
+    <div>
+      {isLoggedIn ? <p>Welcome, User!</p> : <p>Please log in.</p>}
+    </div>
+  );
+}
 
 ## What are the main principles behind “Thinking in React” and how do they guide the process of designing and building a React application?
 
