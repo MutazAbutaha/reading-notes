@@ -52,4 +52,4 @@ Also I will keep it to track observation and question for the daily read.
 | 27           | [Class 35](./code401/Class35.md)|
 | 28           | [Class 37](./code401/Class37.md)|
 | 29           | [Class 38](./code401/Class38.md)|
-
+| 23           | [Class 41](./code401/Class41.md)|
